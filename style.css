@@ -1,0 +1,19 @@
+body{
+    background-color: #e3e3e3;
+}
+.button{
+    display: inline-block;
+    padding: 10px 20px ;
+    color: white;
+    background-color: black;
+    text-align: center;
+    font-size: 16px;
+    text-decoration: none;
+    border-radius: 10px;   
+}
+footer{
+    background-color:#455d7a;
+    color: black;
+    padding: 10PX;
+    text-align: center;
+}
